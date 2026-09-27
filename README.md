@@ -48,10 +48,7 @@ Run on a 1,200-invoice synthetic dataset with six deliberately planted discrepan
 **ML model comparison** (Isolation Forest = unsupervised, Random Forest = supervised):
 
 ## Dashboard
-
-![Dashboard Overview](Dashboard/dashboard-overview.png)
-![Financial Exposure](Dashboard/exposure-chart.png)
-![Monthly Trend](Dashboard/monthly-trend.png)
+ ![Dashboard Overview](Dashboard/dashboard-overview.png)
 
 Built in Power BI on top of `reports/master_reconciliation_export.csv`. Open `Dashboard/reconciliation_dashboard.pbix.pbix` to explore it live.
 
