@@ -47,6 +47,8 @@ Run on a 1,200-invoice synthetic dataset with six deliberately planted discrepan
 
 **ML model comparison** (Isolation Forest = unsupervised, Random Forest = supervised):
 
+\n## Dashboard\n\n![Dashboard Overview](Dashboard/dashboard-overview.png)\n![Financial Exposure](Dashboard/exposure-chart.png)\n![Monthly Trend](Dashboard/monthly-trend.png)\n\nBuilt in Power BI on top of `reports/master_reconciliation_export.csv`. Open `Dashboard/reconciliation_dashboard.pbix.pbix` to explore it live.
+
 | Metric | Isolation Forest | Random Forest |
 |---|---|---|
 | Precision | 0.513 | 0.927 |
